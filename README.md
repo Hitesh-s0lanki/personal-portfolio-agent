@@ -4,7 +4,7 @@ Welcome to **Personal Portfolio v2**! This repository contains a modern, interac
 
 ---
 
-![Home Screen](./public/images/home.png) ![Chat Interface](./public/images/chat.png) ![Agent Architecture](./public/images/personal_portfolio_agent.png)
+![AI Screen](./images/ai.png) ![Home Screen](./images/home.png) ![Chat Interface](./images/chat.png) ![Agent Architecture](./images/personal_portfolio_agent.png)
 
 ---
 
