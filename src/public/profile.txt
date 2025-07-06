@@ -1,0 +1,61 @@
+### 🧠 **Hitesh Solanki – Full-Stack | AI-Integrated | Microservices Software Engineer**
+
+📍 Mumbai, Maharashtra, India
+📧 [hiteshsolanki4623@gmail.com](mailto:hiteshsolanki4623@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/hitesh-solanki-a058872a0) | [GitHub](https://github.com/Hitesh-s0lanki) | [Leetcode](https://leetcode.com/u/hitesh4623/) | [Portfolio](https://master.d2p4p6tfmpfvri.amplifyapp.com/)
+
+---
+
+### 🔍 **Professional Summary**
+
+Results-driven Software Engineer with **1+ years** of hands-on experience in building full-stack, AI-powered, and cloud-native applications. Known for architecting microservice systems, automating business workflows, and shipping scalable features. Passionate about problem-solving (LeetCode), developer productivity, and innovating with OpenAI and DevOps tooling.
+
+---
+
+### 💼 **Key Experiences**
+
+#### **Software Engineer – Strique AI** (Jun 2025 – Present)
+
+* Monitor campaigns, manage catalog, and automate reporting—all from one dashboard developed exclusively for e-commerce brands and agencies focused on ROAS.
+
+#### **Engineering Lead – 26ideas** (Aug 2024 – Apr 2025)
+
+* Built an internal CRM to centralize contacts, candidates, and projects using **Next.js, NestJS, Google APIs**.
+* Implemented **RAG-based contextual search** using OpenAI + Gmail integrations.
+* Managed **Dockerized microservices**, AWS infra (S3, EC2), and CI/CD for production-ready deployments.
+* Built smart AI-based dashboards, websites (26ideas.com, Kyabananahai.com), and data pipelines.
+
+#### **Software Engineer Intern – 26ideas** (Apr 2024 – Jul 2024)
+
+* Created an **AI resume classifier** and OpenAI-based summarizer for Typeform results.
+* Automated workflows with Python, LangChain, Google Apps Script, and Streamlit.
+
+---
+
+### 🛠️ **Technical Stack**
+
+* **Languages:** Java, TypeScript, JavaScript, Python, C++, C
+* **Frontend:** React, Next.js, Tailwind, Streamlit
+* **Backend:** Spring Boot, NestJS, Express.js, Prisma
+* **Databases:** PostgreSQL, MySQL, MongoDB, Firebase
+* **DevOps:** Docker, Kubernetes, Jenkins, Terraform, AWS (S3, EC2, Amplify)
+* **AI/Tools:** OpenAI, LangChain, gRPC, Appwrite, Redis, Kafka
+
+---
+
+### 🏆 **Certifications & Achievements**
+
+* 🥇 Winner: **Code War**, **Technowizz** (DSA competitions)
+* 🏆 DevOps Certified (Udemy)
+* 🧪 Avishkar Research Foundation Award
+* 🎓 Java Spring Boot 3 & Spring Framework 6 – Udemy
+
+---
+
+### 🎓 **Education**
+
+**B.Sc. Information Technology**
+Ghanshyamdas Saraf College – University of Mumbai
+(Jul 2022 – Apr 2025)
+
+---

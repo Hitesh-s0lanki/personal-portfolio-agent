@@ -1,0 +1,50 @@
+[ 
+    {
+        "id": 4,
+        "name": "Complete Agentic AI Bootcamp With LangGraph and Langchain",
+        "issuer": "Udemy",
+        "date": "2025",
+        "image": "/certificates/agentic-ai.jpg",
+        "category": ["AI", "ReAct Agent", "Tool Agent", "Agentic Rag", "langchain", "langgraph", "langserve", "openai", "Advance Python"]
+    },
+    {
+        "id": 5,
+        "name": "gRPC Masterclass with Java & Spring Boot [ Hands-On]",
+        "issuer": "Udemy",
+        "date": "2025",
+        "image": "/certificates/gRPC.jpg",
+        "category": ["gRPC", "Protobuf", "Java", "Spring"]
+    },
+    {
+        "id": 6,
+        "name": "Complete Guide to Protocol Buffers 3 [Java, Golang, Python]",
+        "issuer": "Udemy",
+        "date": "2025",
+        "image": "/certificates/protobuf-certificate.jpg",
+        "category": ["Protocol Buffer", "Google", "Java", "Gradle", "Maven"]
+    },
+    {
+        "id": 1,
+        "name": "Java Spring Framework 6 with Spring Boot 3",
+        "issuer": "Udemy",
+        "date": "2025",
+        "image": "/certificates/java.png",
+        "category": ["Spring", "Spring Boot", "Core Java", "JPA", "Hibernate", "JSP", "JWT"]
+    },
+    {
+        "id": 2,
+        "name": "DevOps Engineer",
+        "issuer": "Udemy",
+        "date": "2025",
+        "image": "/certificates/devops.jpeg",
+        "category": ["DevOps", "CI/CD", "Jenkins", "Ansible", "Github", "Docker", "Kubernates", "AWS", "linux", "Vagrant"]
+    },
+    {
+        "id": 3,
+        "name": "MEDDICC MEDDPICC Sales training",
+        "issuer": "Udemy",
+        "date": "2025",
+        "image": "/certificates/sales.png",
+        "category": ["Sales"]
+    }
+]
